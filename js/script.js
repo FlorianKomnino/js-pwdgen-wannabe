@@ -1,7 +1,6 @@
 console.log('Hello World!')
 
-let nameRequest = 'Type here Your name';
-let surnameRequest = 'Type here Your surname';
-let colorRequest = 'Type here Your favourite color';
-let mysticSecurityNumber = '22';
-
+let nameRequest = prompt ('Type here Your name');
+let surnameRequest = prompt ('Type here Your surname');
+let colorRequest = prompt ('Type here Your favourite color');
+let mysticSecurityNumber = prompt ('22');
