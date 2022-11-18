@@ -1,0 +1,9 @@
+.passwordWindow {
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
+    background-color: orange;
+    border: 10px dotted yellow;
+    border-radius: 50%;
+    padding-top: 5rem;
+}
